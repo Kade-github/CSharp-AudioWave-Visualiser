@@ -4,3 +4,6 @@ Visualises Audio Waves to a console, which is kinda epic ngl.
 
 # Other features
 it measures the peak of the current wave, and stuff like that. Could be useful for stuff like dat, or what ever.
+
+# Use
+Backbone of https://github.com/KadeDev/Stream-Wave
